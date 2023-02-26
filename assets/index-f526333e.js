@@ -1,1 +1,0 @@
-import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{o as n,a as s,f as c,bv as t}from"./index-34a5d1ff.js";const _={},a={class:"h-full"};function r(l,d){const e=t;return n(),s("div",a,[c(e,{title:"多级菜单 - 二级菜单",class:"h-full shadow-sm rounded-16px"})])}const m=o(_,[["render",r]]);export{m as default};
