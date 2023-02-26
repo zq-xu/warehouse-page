@@ -1,0 +1,1 @@
+const e={1:{label:"在售",type:"success"},2:{label:"售罄",type:"error"},3:{label:"已下架",type:"warning"}},a=[{label:"供应商",value:"supplier"},{label:"商品数量",value:"count"},{label:"采购价格",value:"purchasingPrice"},{label:"已支付",value:"paid"},{label:"采购日期",value:"purchasingDate"},{label:"存放位置",value:"storageAddress"}];export{e as a,a as p};
