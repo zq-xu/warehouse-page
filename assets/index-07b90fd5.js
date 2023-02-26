@@ -1,0 +1,1 @@
+import{d as s,g as a,o,a as t,aR as c}from"./index-68664c05.js";const r={class:"h-full"},n=["src"],u=s({__name:"index",setup(l){const e=a("https://docs.warehouse.pro/");return(_,d)=>(o(),t("div",r,[c("iframe",{class:"wh-full",src:e.value},null,8,n)]))}});export{u as default};
