@@ -1,1 +1,0 @@
-import{_ as s}from"./_plugin-vue_export-helper-c27b6911.js";import{as as o,at as n,aB as t,bk as c}from"./index-abdd351b.js";const a={},r={class:"h-full"};function _(d,l){const e=c;return o(),n("div",r,[t(e,{title:"当前页面只有super才能看到",bordered:!1,class:"h-full rounded-8px shadow-sm"})])}const i=s(a,[["render",_]]);export{i as default};

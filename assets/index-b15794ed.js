@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{as as s,at as n,aB as t,bk as c}from"./index-705f4fe4.js";const a={},r={class:"h-full"};function _(d,l){const e=c;return s(),n("div",r,[t(e,{title:"多级菜单 - 三级菜单",bordered:!1,class:"h-full rounded-8px shadow-sm"})])}const m=o(a,[["render",_]]);export{m as default};
