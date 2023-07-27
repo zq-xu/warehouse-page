@@ -1,0 +1,1 @@
+import{d as s,r as t,as as a,at as o,au as c}from"./index-5bf6305f.js";const n={class:"h-full"},r=["src"],d=s({__name:"index",setup(l){const e=t("https://www.naiveui.com/zh-CN/os-theme/docs/introduction");return(i,_)=>(a(),o("div",n,[c("iframe",{class:"wh-full",src:e.value},null,8,r)]))}});export{d as default};
