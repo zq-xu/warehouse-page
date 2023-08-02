@@ -1,1 +1,0 @@
-const e={1:{label:"正常",type:"success"},2:{label:"异常",type:"error"},3:{label:"已删除",type:"default"}},l=[{label:"名称",value:"name"},{label:"联系方式",value:"phone"},{label:"备注信息",value:"comment"},{label:"创建时间",value:"createdAt"},{label:"更新时间",value:"updatedAt"}];export{l as a,e as d};
